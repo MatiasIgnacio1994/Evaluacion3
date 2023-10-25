@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1036013255387",
+    "project_id": "market-app-15eb5",
+    "storage_bucket": "market-app-15eb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036013255387:android:179601d600cba526b0eafe",
+        "android_client_info": {
+          "package_name": "com.example.carritocompras"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCId2FBpiHzgEWykBbdwOXKTPklRGSD96s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
