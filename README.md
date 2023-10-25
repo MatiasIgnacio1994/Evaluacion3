@@ -1,3 +1,3 @@
 # carritocompras
 
-A new Flutter project.
+Tercera evaluacion de computacion movil.
